@@ -29,9 +29,8 @@ Me interesa transformar datos en valor mediante:
 - Cursando una **maestría en Inteligencia Artificial**
 - Explorando aplicaciones de **ML, agentes de datos y grafos** en entornos empresariales
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelRondonBPT&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRondonBPT&layout=compact&theme=tokyonight)
+## 📊 Actividad en GitHub
+Estoy fortaleciendo continuamente mi portafolio con proyectos enfocados en ingeniería de datos, Microsoft Fabric e inteligencia artificial aplicada.
 
 ## 📌 Proyectos destacados
 Próximamente estaré compartiendo aquí proyectos relacionados con:
