@@ -40,4 +40,5 @@ Próximamente estaré compartiendo aquí proyectos relacionados con:
 - Automatización y analítica avanzada
 
 ## 📫 Conecta conmigo
-Puedes explorar mis proyectos y avances aquí en GitHub.
+- LinkedIn: [msrondon](https://www.linkedin.com/in/msrondon/)
+- GitHub: [@MiguelRondonBPT](https://github.com/MiguelRondonBPT)
