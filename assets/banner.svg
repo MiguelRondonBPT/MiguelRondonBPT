@@ -1,0 +1,41 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#111A33"/>
+      <stop offset="1" stop-color="#1A1040"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="40" x2="1080" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#8A2BE2"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="1280" height="320" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+
+  <circle cx="1090" cy="70" r="120" fill="#00C2FF" fill-opacity="0.08"/>
+  <circle cx="1180" cy="250" r="140" fill="#8A2BE2" fill-opacity="0.10"/>
+  <circle cx="180" cy="260" r="100" fill="#00C2FF" fill-opacity="0.06"/>
+
+  <path d="M70 250C220 180 340 260 490 190C630 125 760 215 900 145C1000 95 1090 110 1210 80" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" opacity="0.85" filter="url(#glow)"/>
+  <path d="M80 270C220 220 340 290 510 225C660 170 760 240 930 185C1030 150 1120 155 1210 135" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+
+  <rect x="72" y="68" width="150" height="30" rx="15" fill="#13203D" stroke="#2D4E8F"/>
+  <text x="147" y="88" text-anchor="middle" fill="#9BDCFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Data Engineer</text>
+
+  <text x="72" y="150" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Miguel Rondon</text>
+  <text x="72" y="192" fill="#C7D2FE" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Microsoft Fabric | AI Solutions | Modern Data Platforms</text>
+  <text x="72" y="232" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building scalable data solutions with analytics, automation, ML, and intelligent architectures.</text>
+
+  <g opacity="0.9">
+    <rect x="950" y="170" width="210" height="44" rx="12" fill="#121A31" stroke="#244D8A"/>
+    <text x="1055" y="198" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Microsoft Fabric</text>
+
+    <rect x="1000" y="225" width="120" height="40" rx="12" fill="#15152F" stroke="#5B35B1"/>
+    <text x="1060" y="251" text-anchor="middle" fill="#E9D5FF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">AI &amp; ML</text>
+  </g>
+</svg>
