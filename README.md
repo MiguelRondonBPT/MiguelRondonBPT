@@ -91,5 +91,5 @@ Próximamente estaré compartiendo aquí proyectos relacionados con:
 
 ## 📫 Connect with me | Conecta conmigo
 
-- LinkedIn: [msrondon](https://www.linkedin.com/in/msrondon/)
-- GitHub: [@MiguelRondonBPT](https://github.com/MiguelRondonBPT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-msrondon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msrondon/)
+[![GitHub](https://img.shields.io/badge/GitHub-MiguelRondonBPT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelRondonBPT)
