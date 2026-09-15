@@ -4,15 +4,15 @@ Soy **Ingeniero de Datos en BPT**, especializado en **Microsoft Fabric** y enfoc
 
 Actualmente curso una **maestría en Inteligencia Artificial**, donde profundizo en el uso de IA aplicada a la optimización de flujos de datos y procesos analíticos. Mi trabajo combina ingeniería de datos e inteligencia artificial para construir soluciones más eficientes, escalables y orientadas al negocio.
 
-## 🚀 En qué me especializo
-- Microsoft Fabric
-- Ingeniería y arquitectura de datos
-- Procesos ETL/ELT
-- Análisis de datos
-- Agentes de datos impulsados por IA
-- Machine Learning aplicado a datos
-- Grafos y modelado de relaciones
-- Optimización de procesos empresariales
+## 🚀 Tecnologías y áreas de especialización
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
+![Graphs](https://img.shields.io/badge/Graphs-2E8B57?style=for-the-badge)
 
 ## 💡 Lo que hago
 Aplico mis conocimientos para diseñar e implementar **flujos de datos optimizados con inteligencia artificial**, integrando análisis, automatización y modelos inteligentes para crear soluciones tecnológicas empresariales modernas.
@@ -28,6 +28,17 @@ Me interesa transformar datos en valor mediante:
 - Especializándome en **Microsoft Fabric**
 - Cursando una **maestría en Inteligencia Artificial**
 - Explorando aplicaciones de **ML, agentes de datos y grafos** en entornos empresariales
+
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelRondonBPT&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRondonBPT&layout=compact&theme=tokyonight)
+
+## 📌 Proyectos destacados
+Próximamente estaré compartiendo aquí proyectos relacionados con:
+- Ingeniería de datos
+- Soluciones con Microsoft Fabric
+- Inteligencia Artificial aplicada a procesos empresariales
+- Automatización y analítica avanzada
 
 ## 📫 Conecta conmigo
 Puedes explorar mis proyectos y avances aquí en GitHub.
