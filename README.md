@@ -1,18 +1,26 @@
+<div align="center">
+
 # Miguel Rondon | Data Engineering & AI Solutions 👋
 
-**Ingeniero de Datos en BPT** especializado en **Microsoft Fabric**, enfocado en el diseño de soluciones de datos modernas, inteligentes y orientadas al negocio.
+### Building modern data platforms with Microsoft Fabric, AI, ML, and intelligent automation
+### Construyendo plataformas de datos modernas con Microsoft Fabric, IA, ML y automatización inteligente
 
-**Data Engineer at BPT** specialized in **Microsoft Fabric**, focused on building modern, intelligent, and business-oriented data solutions.
+</div>
 
 ---
 
-## 🇪🇸 Sobre mí
-Actualmente curso una **maestría en Inteligencia Artificial**, donde profundizo en la aplicación de IA para optimizar flujos de datos, procesos analíticos y soluciones empresariales. Mi trabajo integra ingeniería de datos e inteligencia artificial para construir arquitecturas más eficientes, escalables e innovadoras.
+## 🌐 Overview | Resumen
 
-## 🇺🇸 About me
-I am currently pursuing a **Master’s degree in Artificial Intelligence**, where I deepen my expertise in applying AI to optimize data flows, analytical processes, and enterprise solutions. My work combines data engineering and artificial intelligence to build more efficient, scalable, and innovative architectures.
+**EN**  
+Data Engineer at **BPT**, specialized in **Microsoft Fabric**, focused on building modern, scalable, and business-oriented data solutions. I combine data engineering and artificial intelligence to design smarter analytical processes, optimized data flows, and enterprise-ready architectures.
 
-## 🚀 Tecnologías y áreas de especialización | Technologies & Areas of Expertise
+**ES**  
+Ingeniero de Datos en **BPT**, especializado en **Microsoft Fabric**, enfocado en diseñar soluciones de datos modernas, escalables y orientadas al negocio. Combino ingeniería de datos e inteligencia artificial para crear procesos analíticos más inteligentes, flujos de datos optimizados y arquitecturas empresariales modernas.
+
+## 🚀 Core Stack | Tecnologías principales
+
+<div align="center">
+
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -22,51 +30,62 @@ I am currently pursuing a **Master’s degree in Artificial Intelligence**, wher
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
 ![Graphs](https://img.shields.io/badge/Graphs-2E8B57?style=for-the-badge)
 
-## 💡 Lo que hago | What I do
-Diseño e implemento **flujos de datos optimizados con inteligencia artificial**, integrando análisis, automatización, machine learning y agentes de datos para crear soluciones tecnológicas empresariales modernas.
+</div>
 
-I design and implement **AI-optimized data flows**, integrating analytics, automation, machine learning, and data agents to create modern enterprise technology solutions.
+## 💡 What I do | Lo que hago
 
-## 🎯 Mi enfoque | My approach
-Me interesa transformar datos en valor mediante:
-- Automatización inteligente de procesos
-- Integración eficiente de fuentes de datos
-- Diseño de plataformas analíticas modernas
-- Desarrollo de soluciones basadas en IA para mejorar la toma de decisiones
+**EN**  
+I design and implement **AI-optimized data flows**, integrating analytics, automation, ETL/ELT, machine learning, and data agents to create modern enterprise technology solutions.
 
-I am interested in turning data into value through:
-- Intelligent process automation
-- Efficient integration of data sources
-- Design of modern analytics platforms
-- AI-based solutions to improve decision-making
+**ES**  
+Diseño e implemento **flujos de datos optimizados con inteligencia artificial**, integrando analítica, automatización, ETL/ELT, machine learning y agentes de datos para crear soluciones tecnológicas empresariales modernas.
 
-## 🌱 Actualmente | Currently
-- Especializándome en **Microsoft Fabric**
-- Cursando una **maestría en Inteligencia Artificial**
-- Explorando aplicaciones de **ML, agentes de datos y grafos** en entornos empresariales
+## 🎯 Focus Areas | Áreas de enfoque
 
+- Microsoft Fabric and modern data platforms  
+- Data engineering and scalable architectures  
+- ETL/ELT and advanced analytics  
+- AI applied to business processes  
+- Machine learning and intelligent automation  
+- Graph-based solutions and relationship modeling
+
+## 🌱 Currently | Actualmente
+
+**EN**
 - Specializing in **Microsoft Fabric**
 - Pursuing a **Master’s degree in Artificial Intelligence**
 - Exploring **ML, data agents, and graph-based solutions** in enterprise environments
 
-## 📊 Actividad en GitHub | GitHub Activity
-Estoy fortaleciendo continuamente mi portafolio con proyectos enfocados en ingeniería de datos, Microsoft Fabric e inteligencia artificial aplicada.
+**ES**
+- Especializándome en **Microsoft Fabric**
+- Cursando una **maestría en Inteligencia Artificial**
+- Explorando aplicaciones de **ML, agentes de datos y grafos** en entornos empresariales
 
+## 📊 GitHub Activity | Actividad en GitHub
+
+**EN**  
 I am continuously strengthening my portfolio with projects focused on data engineering, Microsoft Fabric, and applied artificial intelligence.
 
-## 📌 Proyectos destacados | Featured Projects
-Próximamente estaré compartiendo aquí proyectos relacionados con:
-- Ingeniería de datos
-- Soluciones con Microsoft Fabric
-- Inteligencia Artificial aplicada a procesos empresariales
-- Automatización y analítica avanzada
+**ES**  
+Estoy fortaleciendo continuamente mi portafolio con proyectos enfocados en ingeniería de datos, Microsoft Fabric e inteligencia artificial aplicada.
 
+## 📌 Featured Projects | Proyectos destacados
+
+**EN**  
 I will soon be sharing projects here related to:
 - Data engineering
 - Microsoft Fabric solutions
 - Artificial intelligence applied to business processes
 - Automation and advanced analytics
 
-## 📫 Conecta conmigo | Connect with me
+**ES**  
+Próximamente estaré compartiendo aquí proyectos relacionados con:
+- Ingeniería de datos
+- Soluciones con Microsoft Fabric
+- Inteligencia Artificial aplicada a procesos empresariales
+- Automatización y analítica avanzada
+
+## 📫 Connect with me | Conecta conmigo
+
 - LinkedIn: [msrondon](https://www.linkedin.com/in/msrondon/)
 - GitHub: [@MiguelRondonBPT](https://github.com/MiguelRondonBPT)
